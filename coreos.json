@@ -133,8 +133,8 @@
   ],
   "variables": {
     "channel": "alpha",
-    "version": "current",
-    "checksum_type": "md5",
-    "checksum": "771552e66649f94cd7f61edda6b2fa50"
+    "version": "1618.0.0",
+    "checksum_type": "sha512",
+    "checksum": "8286c337c1c5c701cfb9dd2b1565c9fcb1d87190c721d1959df7fec8a5fa0cc3ffab9b19e3631f61c7cedee145204fe716366d8d850b6b8b2297d950da6fc76d"
   }
 }
