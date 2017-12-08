@@ -160,6 +160,7 @@
       "output": "./builds/{{.Provider}}/coreos-{{user `channel`}}.box",
       "vagrantfile_template": "files/box/Vagrantfile",
       "include": [
+        "files/box/base_mac.rb",
         "files/box/change_host_name.rb",
         "files/box/configure_networks.rb"
       ]
